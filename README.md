@@ -8,4 +8,6 @@ Just need the pygame library to be installed, use below command to install if no
 pip install pygame
 ```
 
+and run the file ChessGame.py
+
 ### this is a two player game as of right now, but I am working on making an AI to play against. Will update the repo when it's done and tested.
